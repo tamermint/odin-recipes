@@ -1,0 +1,13 @@
+.base-class {
+    font-size: 28px;
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+}
+
+.base-class.btn1 {
+    background-color: #000000;
+    color: white;
+}
+
+.base-class.btn2 {
+    background-color: #ffff00;
+}
