@@ -47,7 +47,7 @@ body {
 button {
   border: none;
   border-radius: 8px;
-  background: rebeccapurple;
+  background: rgb(112, 81, 143);
   color: white;
   padding: 8px 24px;
 }
