@@ -7,3 +7,5 @@
 # - HTML i, em, strong, b tags
 # - Update - basic CSS included here as well 
 #this project is a way for me to review my foundational html skills and review my learning
+
+# - Update - now this repo contains some basic JS code as well - learning about functions. Used an arrow function
